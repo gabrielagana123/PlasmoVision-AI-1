@@ -1,7 +1,9 @@
 # PlasmoVision AI: High-Throughput Malaria Parasite Screening
-# By Gabriel Agana Anongwin
-# Doctor of Pharmacy Class of 2026
-# Data Science Student at ALX, Cohort 10
+By Gabriel Agana Anongwin
+Doctor of Pharmacy Class of 2026
+Data Science Student at ALX, Cohort 10
+#Live Demo
+https://plasmovision-ai-lettgwclcgkdrvsbd466ma.streamlit.app/
 An automated digital pathology dashboard designed to accelerate malaria screening by enabling healthcare workers to evaluate large batches of blood cell microscopic images simultaneously.
 
 
