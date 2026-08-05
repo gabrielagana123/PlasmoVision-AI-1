@@ -1,6 +1,6 @@
 # PlasmoVision AI: High-Throughput Malaria Parasite Screening
-By Gabriel Agana Anongwin
-Doctor of Pharmacy Class of 2026
+By Gabriel Agana Anongwin,
+Doctor of Pharmacy Class of 2026,
 Data Science Student at ALX, Cohort 10
 # Live Demo
 https://plasmovision-ai-lettgwclcgkdrvsbd466ma.streamlit.app/
